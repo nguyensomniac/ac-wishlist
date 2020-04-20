@@ -24,3 +24,13 @@
 - DJ's Turntable
 - Traditional Tea set (plain)
 - Humidifier (white/blue)
+
+## Extra DIYs
+
+- Log Bench
+- Bamboo Doll
+- Jungle Wall
+- Ironwood Cupboard
+- Iron Closet
+- Birdhouse
+- Log Stool
